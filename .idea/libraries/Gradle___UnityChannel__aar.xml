@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: :UnityChannel:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22b967a8de950c4898424be0e7b0ac94/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22b967a8de950c4898424be0e7b0ac94/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22b967a8de950c4898424be0e7b0ac94/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/22b967a8de950c4898424be0e7b0ac94/jars/libs/MIO_SDK_UNITY_1.3.9_10156.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
